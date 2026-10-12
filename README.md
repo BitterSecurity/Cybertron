@@ -1,24 +1,24 @@
 # Cybertron
 
-**Autonomous Cyber Defense for Humanity**
+**Autonomous Security Intelligence for Humanity**
 
 > **Project Status: Planned — Coming Soon**
 
-Cybertron is an upcoming open-source autonomous cybersecurity platform by [BitterSecurity](https://github.com/BitterSecurity).
+Cybertron is an upcoming open-source autonomous security intelligence ecosystem by [BitterSecurity](https://github.com/BitterSecurity).
 
-Envisioned as the unifying platform for [Decepticon](https://github.com/BitterSecurity/Decepticon) and [AutoBot](https://github.com/BitterSecurity/AutoBot), Cybertron aims to bring offensive and defensive AI systems together into a continuous, collaborative security ecosystem.
+Envisioned as the unifying platform for [Decepticon](https://github.com/BitterSecurity/Decepticon) and [AutoBot](https://github.com/BitterSecurity/AutoBot), Cybertron aims to bring offensive and defensive AI systems together through collaborative intelligence, continuous adversarial evaluation, and autonomous security operations.
 
 ## Vision
 
 **Attack. Defend. Learn. Evolve.**
 
-Cybersecurity should not be limited to isolated tools, specialized teams, or one-time assessments.
+Security is not a static state. It is a continuous process of adaptation, intelligence, and evolution.
 
-We envision a future where autonomous AI systems work together to continuously evaluate, defend, and improve digital environments.
+We envision a future where autonomous AI systems work together to understand threats, simulate adversarial behavior, evaluate defenses, and continuously improve security capabilities.
 
-Cybertron aims to bridge offensive and defensive security through coordinated AI agents, shared intelligence, and continuous security validation.
+Cybertron aims to move beyond isolated security tools and disconnected workflows by establishing a unified intelligence layer across offensive and defensive security.
 
-**Our mission is simple: Autonomous Cyber Defense for Humanity.**
+**Our mission is simple: Autonomous Security Intelligence for Humanity.**
 
 ## The Ecosystem
 
@@ -28,73 +28,84 @@ Cybertron aims to bridge offensive and defensive security through coordinated AI
 |---|---|---|
 | [Decepticon](https://github.com/BitterSecurity/Decepticon) | Red Team | Autonomous Hacking Agent for Red Team |
 | [AutoBot](https://github.com/BitterSecurity/AutoBot) | Blue Team | Autonomous Defense Agent for Blue Team |
-| **Cybertron** | Unified Security | Autonomous Cyber Defense for Humanity |
+| **Cybertron** | Unified Security Intelligence | Autonomous Security Intelligence for Humanity |
 
 ### Decepticon — Attack
 
 An autonomous offensive security agent harness designed to simulate adversarial behavior, identify vulnerabilities, and evaluate security posture.
 
+Decepticon represents the offensive intelligence component of the ecosystem.
+
 ### AutoBot — Defend
 
-A planned autonomous defensive security agent designed to assist with threat detection, investigation, incident response, and defensive automation.
+A planned autonomous defensive security agent designed to assist with threat intelligence, detection engineering, security investigation, incident response, and defensive automation.
+
+AutoBot represents the defensive intelligence component of the ecosystem.
 
 ### Cybertron — Unite
 
-A planned unified platform designed to coordinate offensive and defensive AI systems, validate security outcomes, and support continuous security improvement.
+A planned autonomous security intelligence platform designed to connect offensive and defensive AI systems through shared knowledge, coordinated workflows, and continuous evaluation.
+
+Cybertron represents the unified intelligence layer of the ecosystem.
 
 ## Planned Capabilities
 
-- **Unified AI Security Platform** — Connect offensive and defensive security capabilities within a shared environment.
-- **Multi-Agent Orchestration** — Coordinate specialized AI agents across offensive and defensive security workflows.
-- **Autonomous Purple Teaming** — Connect authorized attack simulations with threat detection and defensive response.
-- **Continuous Security Validation** — Evaluate security posture through iterative testing and feedback.
-- **Shared Security Intelligence** — Explore knowledge sharing across offensive and defensive agents.
-- **Adaptive Security Workflows** — Use evaluation results to inform subsequent security operations.
-- **Security Knowledge & Memory** — Explore persistent representations of attack paths, detection outcomes, and defensive knowledge.
-- **Human Oversight & Control** — Support authorization, transparency, and human control over sensitive security operations.
+The following capabilities represent our long-term vision and are subject to change.
 
-All capabilities are conceptual and subject to change.
+- **Unified Security Intelligence** — Connect offensive and defensive security knowledge within a shared intelligence framework.
+- **Multi-Agent Orchestration** — Coordinate specialized autonomous agents across offensive and defensive security workflows.
+- **Autonomous Purple Teaming** — Connect authorized adversarial simulation with defensive detection and response.
+- **Continuous Security Validation** — Evaluate security posture through iterative attack simulation, defensive analysis, and feedback.
+- **Shared Knowledge & Memory** — Explore persistent representations of attack paths, vulnerabilities, detections, and defensive outcomes.
+- **Adaptive Security Intelligence** — Investigate how security systems can improve their reasoning and workflows through accumulated evaluation results.
+- **Security Research & Analysis** — Support collaborative vulnerability research, threat analysis, and security investigation.
+- **Human Oversight & Control** — Maintain authorization, transparency, and human control over sensitive security operations.
 
 ## Conceptual Architecture
 
 ```text
-                      CYBERTRON
-             Autonomous Cyber Defense
-                    for Humanity
-                         |
-              +----------+----------+
-              |                     |
-          DECEPTICON              AUTOBOT
-           Red Team               Blue Team
-              |                     |
-        Attack Simulation      Threat Detection
-        Vulnerability Testing  Security Investigation
-        Security Validation    Incident Response
-              |                     |
-              +----------+----------+
-                         |
-                Shared Intelligence
-                         |
-                Continuous Feedback
-                         |
+                       CYBERTRON
+             Autonomous Security Intelligence
+                     for Humanity
+                          |
+                Unified Intelligence
+                          |
+              +-----------+-----------+
+              |                       |
+          DECEPTICON                AUTOBOT
+           Red Team                 Blue Team
+              |                       |
+      Offensive Intelligence   Defensive Intelligence
+      Attack Simulation        Threat Detection
+      Vulnerability Research   Security Investigation
+      Adversarial Validation   Incident Response
+              |                       |
+              +-----------+-----------+
+                          |
+                 Shared Knowledge
+                          |
+               Continuous Evaluation
+                          |
+                  Feedback & Learning
+                          |
                 Security Improvement
-                         |
-                       EVOLVE
+                          |
+                        EVOLVE
 ```
 
 This architecture illustrates the project's long-term vision and does not represent an existing implementation.
 
 ## Philosophy
 
-**Offense and defense are two sides of the same security problem.**
+**Security is not a static state. It is a continuous process of adaptation and evolution.**
 
-Traditional cybersecurity often separates offensive testing from defensive operations.
+Traditional cybersecurity often separates offensive testing from defensive operations, limiting opportunities for continuous feedback and shared intelligence.
 
-Cybertron explores a different approach: autonomous Red Team and Blue Team agents working together to evaluate threats, validate defenses, and continuously improve security capabilities.
+Cybertron explores a different approach: autonomous offensive and defensive AI systems working collaboratively rather than independently.
 
-By connecting attack simulation, threat detection, defensive response, and evaluation, Cybertron aims to establish a continuous feedback loop between offensive and defensive intelligence.
+Through adversarial simulation, defensive evaluation, shared knowledge, and iterative feedback, Cybertron aims to explore how autonomous security intelligence can continuously improve.
 
-The long-term vision is not simply to automate existing security workflows, but to explore how autonomous security systems can learn, adapt, and evolve through repeated evaluation.
+Our long-term vision is not simply to automate existing security workflows, but to investigate how AI-driven security systems can reason, collaborate, adapt, and evolve.
 
 **Built for defenders. Informed by attackers. Designed for humanity.**
 
@@ -104,7 +115,7 @@ Cybertron is currently in the planning stage.
 
 There is no public implementation or confirmed release timeline.
 
-Technical architecture, agent communication protocols, evaluation methodology, and integrations will be defined as the project evolves.
+Technical architecture, agent communication protocols, shared intelligence mechanisms, evaluation methodology, and integrations will be defined as the project evolves.
 
 ## Related Projects
 
@@ -117,4 +128,4 @@ To be determined.
 
 ---
 
-**BitterSecurity — Autonomous Cyber Defense for Humanity.**
+**BitterSecurity — Autonomous Security Intelligence for Humanity.**
